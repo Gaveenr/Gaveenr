@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Passfab**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Technology Management**
 
 - 💬 Ask me about **Android, Microsoft**
 
